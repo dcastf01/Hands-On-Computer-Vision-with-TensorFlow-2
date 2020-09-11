@@ -36,3 +36,6 @@ proguard/
 
 # Log Files
 *.log
+
+# File from envs
+envs/
